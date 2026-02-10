@@ -6,3 +6,4 @@ In the mountains, there you feel free.
 Winter kept us warm, covering
 Earth in forgetful snow, feeding
 A little life with dried tubers.
+Living nor dead, and I knew nothing,
