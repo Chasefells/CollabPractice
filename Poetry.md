@@ -6,5 +6,6 @@ In the mountains, there you feel free.
 Winter kept us warm, covering
 Earth in forgetful snow, feeding
 A little life with dried tubers.
-Living nor dead, and I knew nothing,
-Living nor dead, and I knew nothing,
+What are the roots that clutch, what branches grow
+Out of this stony rubbish? Son of man,
+You cannot say, or guess, for you know only
