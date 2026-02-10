@@ -5,7 +5,6 @@ Dull roots with spring rain.
 Winter kept us warm, covering
 Earth in forgetful snow, feeding
 A little life with dried tubers.
-Summer surprised us, coming over the Starnbergersee
-With a shower of rain; we stopped in the colonnade,
-And went on in sunlight, into the Hofgarten,
-And drank coffee, and talked for an hour.
+What are the roots that clutch, what branches grow
+Out of this stony rubbish? Son of man,
+You cannot say, or guess, for you know only
