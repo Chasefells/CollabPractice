@@ -15,3 +15,6 @@ I am talking to the professor
 
 
 I was late to class today!
+Today is presidents day
+Tomorrow is thursday
+I am studying in a cafe
