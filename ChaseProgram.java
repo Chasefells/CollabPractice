@@ -6,4 +6,5 @@ public class ChaseProgram {
     }
 }
 // Hello from Chase's Java file!
+
 // Ready for merge conflicts practice.
