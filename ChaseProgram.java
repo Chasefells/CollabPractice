@@ -5,3 +5,5 @@ public class ChaseProgram {
         System.out.println("Ready for merge conflicts practice.");
     }
 }
+// Hello from Chase's Java file!
+// Ready for merge conflicts practice.
