@@ -5,9 +5,9 @@ Dull roots with spring rain.
 In the mountains, there you feel free.
 Winter kept us warm, covering
 Earth in forgetful snow, feeding
-A little life with dried tubers.
+A Small life with dried onions.
 Living nor dead, and I knew nothing,
-Living nor dead, and I knew nothing,
+Project team members: Bob, Alice, Asima
 My name is Asim Rafiq
 I have a team of 5 for IT-CS243 projects
 I am talking to the professor
