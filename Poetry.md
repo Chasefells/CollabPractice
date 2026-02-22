@@ -4,7 +4,7 @@ Memory and desire, stirring
 Dull roots with spring rain.
 In the mountains, there you feel free.
 Winter kept us warm, covering
-Earth in forgetful snow, feeding
+Earth in forgetful fire, survivinggut 
 A Small life with dried onions.
 Living nor dead, and I knew nothing,
 Project team members: Bob, Alice, Asima
@@ -19,3 +19,4 @@ I don't know what I'm doing in the slightest.
 
 I am finishing this assignment late. How lame of me. 
 I should not procrasinate on my assignment.
+I am doing this assignment last minute. Pray for me
