@@ -16,7 +16,11 @@ I am talking to the professor
 
 I was late to class today!
 I don't know what I'm doing in the slightest.
+<<<<<<< HEAD
 
 I am finishing this assignment late. How lame of me. 
 I should not procrasinate on my assignment.
 I am doing this assignment last minute. Pray for me
+=======
+Dev version for conflict
+>>>>>>> 86243970c86fcd9d0b25d0cbd7b59ea2cb0fcd0d
