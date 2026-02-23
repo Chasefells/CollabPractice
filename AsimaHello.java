@@ -3,6 +3,7 @@ public class AsimaHello {
         System.out.println("Welcome!");
         System.out.println("Asima: non-conflict 1");
         System.out.println("Asima: non-conflict 2");
+        System.out.println("Asima: non-conflict 3");
         System.out.println("Asima: Non-conflict merge example");
     }
 }
