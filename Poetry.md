@@ -30,3 +30,4 @@ Living nor dead, and I knew nothing,
 Living nor dead, and I knew nothing,
 
 Week 6 last minute!
+This was not my brightest moment!
